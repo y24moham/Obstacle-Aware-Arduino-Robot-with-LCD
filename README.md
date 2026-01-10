@@ -13,7 +13,7 @@ Arduino firmware for a two-motor robot featuring a **16×2 LCD interface**, **ul
 - **Obstacle avoidance:** if an object is detected within a close range, the robot repeatedly **turns right** and prints `turning right` until the distance increases (Ultrasonic sensor is to be facing forward, but is facing sideways in design due to breadboard design constraints)
 
 ## Demo
-Check the demo file in the repo, and use this link to demo folder with all videos:
+Use this link to view demo video:
 https://drive.google.com/file/d/1gGviGKnixNbjjOhSUq4s3DY6O76Xo-3T/view?usp=sharing
 
 ### Distance thresholds (currently used)
