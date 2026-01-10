@@ -15,7 +15,7 @@ Check the demo file in the repo, and use this link to demo folder with all video
 https://drive.google.com/file/d/1gGviGKnixNbjjOhSUq4s3DY6O76Xo-3T/view?usp=sharing
 
 ### Distance thresholds (currently used)
-- If distance `< 10 cm` → small delay to check if it gets below 7
+- If distance `< 10 cm` → small delay then check if it gets below 7 cm
 - While distance `<= 7 cm` → keep turning right (`RR()`)
 
 ## Tech / Libraries
