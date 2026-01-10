@@ -1,4 +1,4 @@
-# Obstacle-Aware Arduino Robot (LCD UI)
+# Arduino Obstacle-Aware Robot (with LCD UI)
 
 Arduino firmware for a two-motor robot featuring a **16×2 LCD interface**, **ultrasonic distance sensing**, and a single **Enter button** to control runtime behavior.
 
