@@ -21,7 +21,7 @@ https://drive.google.com/file/d/1gGviGKnixNbjjOhSUq4s3DY6O76Xo-3T/view?usp=shari
 - While distance `<= 7 cm` → keep turning right (`RR()`)
 
 ## Tech / Libraries
-- Arduino (C++)
+- **Arduino (C++)**
 - **LiquidCrystal** (`#include <LiquidCrystal.h>`)
   - Included with the Arduino IDE by default (no manual install needed)
 
