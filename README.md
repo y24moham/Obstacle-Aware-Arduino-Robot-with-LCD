@@ -5,6 +5,8 @@ Arduino firmware for a two-motor robot featuring a **16×2 LCD interface**, **ul
 > The robot chassis/body is from a basic two-motor kit (mechanical frame only).  
 > The firmware behavior, sensor/LCD integration, and pin-level control logic were implemented separately.
 
+<img src="Prosthetic-Hand-Image.jpg" alt="EV3 Prosthetic Hand" width="650"> <img src="Prosthetic-Hand-Image.jpg" alt="EV3 Prosthetic Hand" width="650">
+
 ## What it does
 - **Idle mode:** motors stop and the LCD prompts: `Press ENTER`
 - **Active mode:** drives forward and displays **live distance (cm)** on the LCD
