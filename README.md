@@ -5,7 +5,7 @@ Arduino firmware for a two-motor robot featuring a **16×2 LCD interface**, **ul
 > The robot chassis/body is from a basic two-motor kit (mechanical frame only).  
 > The firmware behavior, sensor/LCD integration, and pin-level control logic were implemented separately.
 
-<img src="Arduino-Robot-img2.PNG" alt="Arduino Robot img 2" width="400"><img src="Arduino-Robot-img3.PNG" alt="Arduino Robot img 3" width="400">
+<img src="Arduino-Robot-img3.PNG" alt="Arduino Robot img 1" width="400"><img src="Arduino-Robot-img2.PNG" alt="Arduino Robot img 2" width="400">
 
 ## What it does
 - **Idle mode:** motors stop and the LCD prompts: `Press ENTER`
