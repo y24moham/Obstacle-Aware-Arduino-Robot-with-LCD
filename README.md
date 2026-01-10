@@ -12,6 +12,7 @@ Arduino firmware for a two-motor robot featuring a **16×2 LCD interface**, **ul
 
 ## Demo
 Check the demo file in the repo, and use this link to demo folder with all videos:
+https://drive.google.com/file/d/1gGviGKnixNbjjOhSUq4s3DY6O76Xo-3T/view?usp=sharing
 
 ### Distance thresholds (currently used)
 - If distance `< 10 cm` → small delay to check if it gets below 7
